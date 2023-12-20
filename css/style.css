@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700&display=swap");
+/*google fonts*/
+
+/* base style ---------- */
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: "Raleway", sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1.5;
+
+  color: #212121;
+
+  position: relative;
+}
+
+h1,
+h2,
+h3 {
+  line-height: 1.1;
+}
+
+img {
+  display: inline-block;
+  max-width: 100%;
+}
+
+a {
+  display: inline-block;
+  text-decoration: none;
+  color: tomato;
+}
+
+/* repeated style ---------- */
+
+/* header section style ---------- */
+
+/* website banner style ---------- */
+
+/* style for services section ---------- */
+
+/* testimonials style ---------- */
+
+/* website newsletter style ---------- */
+
+/* footer design ---------- */
